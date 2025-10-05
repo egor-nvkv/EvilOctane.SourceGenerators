@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36414.22 d17.14
+VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvilOctane.SourceGenerators", "EvilOctane.SourceGenerators\EvilOctane.SourceGenerators.csproj", "{EBF5DE7E-9FAF-4E59-9188-6BB0022F6538}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvilOctane.SourceGenerators.Enum", "EvilOctane.SourceGenerators.Enum\EvilOctane.SourceGenerators.Enum.csproj", "{A88FB4CC-89E9-4747-657F-802B748AF1B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{EBF5DE7E-9FAF-4E59-9188-6BB0022F6538}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBF5DE7E-9FAF-4E59-9188-6BB0022F6538}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBF5DE7E-9FAF-4E59-9188-6BB0022F6538}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A88FB4CC-89E9-4747-657F-802B748AF1B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A88FB4CC-89E9-4747-657F-802B748AF1B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A88FB4CC-89E9-4747-657F-802B748AF1B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A88FB4CC-89E9-4747-657F-802B748AF1B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
